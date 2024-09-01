@@ -3,7 +3,7 @@
 This project is a question-answer application developed using HTML, CSS, JavaScript, React, and Vite.
 
 ### 🧑‍💻 Live Site
-[![GitHub Logo](/img/github.svg)](https://sportcenter-wine.vercel.app/)
+[![GitHub Logo](/img/github.svg)](https://questionapp-taupe.vercel.app/)
 
 ## 🛠️ Installation
 
