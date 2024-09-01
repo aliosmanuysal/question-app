@@ -1,3 +1,5 @@
+/*İndex CSS*/
+
 * {
   box-sizing : border-box;
   margin: 0;
@@ -7,6 +9,7 @@
 body { 
   background-image: linear-gradient(to right, #dfe9f3, #ffffff);
 }
+
 #root {
   max-width: 1400px;
   display: flex;

@@ -4,7 +4,7 @@ import QuestionCounter from './components/questionCounter/QuestionCounter'
 import Timer from './components/timer/Timer'
 
 function App() {
-
+  
   return (
     <div className='app-container'>
       <div className='header-container'>

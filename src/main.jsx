@@ -1,3 +1,4 @@
+// Import React and ReactDOM
 import React, { useContext } from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
@@ -7,6 +8,7 @@ import Login from './components/login/Login.jsx'
 import questions from './questions.js'
 import Result from './components/result/Result.jsx'
 
+// Create a context provider and consumer
 const Root = () => {
   const {isAppVisible, counter, correctCounter} = useContext(appContext);
 
@@ -24,6 +26,7 @@ const Root = () => {
     </>
 )}
 
+// Render the App component
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <AppContext>
